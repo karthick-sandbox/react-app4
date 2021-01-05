@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-ssr3
+  description: react-ssr3
+  annotations: {}
+spec:
+  type: website
+  lifecycle: experimental
+  owner: karthicksiva
